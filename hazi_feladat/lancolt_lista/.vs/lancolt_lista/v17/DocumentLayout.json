@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|d:\\ekke harmadik felev\\algo ii\\hazi_feladat\\lancolt_lista\\lancolt_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|solutionrelative:lancolt_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|d:\\ekke harmadik felev\\algo ii\\hazi_feladat\\lancolt_lista\\lancolt_lista\\rekurzio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|solutionrelative:lancolt_lista\\rekurzio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|d:\\ekke harmadik felev\\algo ii\\hazi_feladat\\lancolt_lista\\lancolt_lista\\tombossor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|solutionrelative:lancolt_lista\\tombossor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|d:\\ekke harmadik felev\\algo ii\\hazi_feladat\\lancolt_lista\\lancolt_lista\\tombosverem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|solutionrelative:lancolt_lista\\tombosverem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|d:\\ekke harmadik felev\\algo ii\\hazi_feladat\\lancolt_lista\\lancolt_lista\\szabadtarolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B19D1C-92F8-4CAA-83F4-F1BEF2DA6619}|lancolt_lista\\lancolt_lista.csproj|solutionrelative:lancolt_lista\\szabadtarolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rekurzio.cs",
+              "DocumentMoniker": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\Rekurzio.cs",
+              "RelativeDocumentMoniker": "lancolt_lista\\Rekurzio.cs",
+              "ToolTip": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\Rekurzio.cs",
+              "RelativeToolTip": "lancolt_lista\\Rekurzio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:39:29.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TombosSor.cs",
+              "DocumentMoniker": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\TombosSor.cs",
+              "RelativeDocumentMoniker": "lancolt_lista\\TombosSor.cs",
+              "ToolTip": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\TombosSor.cs",
+              "RelativeToolTip": "lancolt_lista\\TombosSor.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:38:13.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TombosVerem.cs",
+              "DocumentMoniker": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\TombosVerem.cs",
+              "RelativeDocumentMoniker": "lancolt_lista\\TombosVerem.cs",
+              "ToolTip": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\TombosVerem.cs",
+              "RelativeToolTip": "lancolt_lista\\TombosVerem.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T12:30:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SzabadTarolo.cs",
+              "DocumentMoniker": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\SzabadTarolo.cs",
+              "RelativeDocumentMoniker": "lancolt_lista\\SzabadTarolo.cs",
+              "ToolTip": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\SzabadTarolo.cs",
+              "RelativeToolTip": "lancolt_lista\\SzabadTarolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T12:30:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\Program.cs",
+              "RelativeDocumentMoniker": "lancolt_lista\\Program.cs",
+              "ToolTip": "D:\\EKKE harmadik felev\\Algo II\\hazi_feladat\\lancolt_lista\\lancolt_lista\\Program.cs",
+              "RelativeToolTip": "lancolt_lista\\Program.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAiwEEBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T15:30:38.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
